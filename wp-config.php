@@ -21,22 +21,25 @@
 // ** Configurações do MySQL - Você pode pegar estas informações
 // com o serviço de hospedagem ** //
 /** O nome do banco de dados do WordPress */
-define('DB_NAME', 'maracaho_maraca');
+define('DB_NAME', 'maraca-db');
 
 /** Usuário do banco de dados MySQL */
-define('DB_USER', 'maracaho_maraca');
+define('DB_USER', 'remo-maraca-db');
 
 /** Senha do banco de dados MySQL */
-define('DB_PASSWORD', 'e2mg0vyx8q');
+define('DB_PASSWORD', 'REMO-maraca#1');
 
 /** Nome do host do MySQL */
-define('DB_HOST', 'localhost');
+define('DB_HOST', 'mysql785.umbler.com ');
 
 /** Charset do banco de dados a ser usado na criação das tabelas. */
 define('DB_CHARSET', 'utf8mb4');
 
 /** O tipo de Collate do banco de dados. Não altere isso se tiver dúvidas. */
 define('DB_COLLATE', '');
+
+define('WP_HOME',' http://maracahostel-com-br.umbler.net');
+define('WP_SITEURL',' http://maracahostel-com-br.umbler.net');
 
 /**#@+
  * Chaves únicas de autenticação e salts.
