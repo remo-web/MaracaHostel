@@ -38,9 +38,6 @@ define('DB_CHARSET', 'utf8mb4');
 /** O tipo de Collate do banco de dados. Não altere isso se tiver dúvidas. */
 define('DB_COLLATE', '');
 
-define('WP_HOME',' http://maracahostel-com-br.umbler.net');
-define('WP_SITEURL',' http://maracahostel-com-br.umbler.net');
-
 /**#@+
  * Chaves únicas de autenticação e salts.
  *
