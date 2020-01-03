@@ -1,0 +1,372 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: HREFLANG Tags\n"
+"POT-Creation-Date: 2018-03-17 16:49+0800\n"
+"PO-Revision-Date: 2018-03-17 16:50+0800\n"
+"Last-Translator: David Robert Davis, Jr <david.davis@dcgws.com>\n"
+"Language-Team: David Robert Davis, Jr <david.davis@dcgws.com>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: hreflang-tags-by-dcgws.php\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: hreflang-main.php:23 includes/functions.php:302 includes/functions.php:329
+msgid "HREFLANG Tags"
+msgstr "HREFLANG Tags"
+
+#: hreflang-main.php:58
+msgid "Dashboard"
+msgstr "Painel de controle"
+
+#: hreflang-main.php:59
+msgid "HTML Code Generator"
+msgstr "Gerador de código HTML"
+
+#: hreflang-main.php:60
+msgid "Bulk Editor"
+msgstr "Editor em Massa"
+
+#: hreflang-main.php:61
+msgid "Validation Tool"
+msgstr "Ferramenta de validação"
+
+#: includes/functions.php:246 includes/functions.php:267
+#: includes/functions.php:304 includes/functions.php:341
+#: includes/functions.php:366
+msgid "Alternative URL"
+msgstr "URL alternativa"
+
+#: includes/functions.php:248 includes/functions.php:269
+#: includes/functions.php:306 includes/functions.php:343
+#: includes/functions.php:368
+msgid "Language"
+msgstr "Lingua"
+
+#: includes/functions.php:250 includes/functions.php:271
+#: includes/functions.php:308 includes/functions.php:345
+#: includes/functions.php:370
+msgid "Select one"
+msgstr "Selecionar Um"
+
+#: includes/functions.php:462
+#, php-format
+msgid ""
+"Use coupon code <b>WPDashboard50</b> to get <i>50% off</i> HREFLANG TAGS Pro "
+"<i>ONLY until March 24, 2018</i>! <b>Limited to the first 100 customers!</b> "
+"<a href=\"http://dcgws.com/product/hreflang-tags-pro-plugin-wordpress/"
+"#utm_source=plugin-page&utm_medium=admin-notice&utm_campaign=hreflang-tags-"
+"pro\">Order now!</a>"
+msgstr ""
+"Use o código de cupom <b>WPDashboard50</b> para obter <i>50% de desconto no</"
+"i> HREFLANG TAGS Pro <i>SOMENTE até 24 de março de 2018</i> ! <b>Limitado "
+"aos primeiros 100 clientes!</b> <a href=\"http://dcgws.com/product/hreflang-"
+"tags-pro-plugin-wordpress/#utm_source=plugin-page&utm_medium=admin-"
+"notice&utm_campaign=hreflang-tags-pro\">Peça agora!</a>"
+
+#: tabs/bulk_editor.php:16 tabs/generator.php:18 tabs/validation_tool.php:16
+msgid "This tool is one of the Pro features of HREFLANG Tags."
+msgstr "Esta ferramenta é uma das características de Tags HREFLANG Pro."
+
+#: tabs/bulk_editor.php:17
+msgid ""
+"You can access all your pages and posts here and add your hreflang tags, all "
+"in one convenient place."
+msgstr ""
+"Você pode acessar todas as suas páginas e posts aqui e adicionar suas tags "
+"hreflang, tudo em um lugar conveniente."
+
+#: tabs/bulk_editor.php:18
+msgid ""
+"Please watch this short video demonstration of the HREFLANG Tags Pro Bulk "
+"Editor."
+msgstr ""
+"Por favor, assista a esta pequena demonstração em vídeo do Editor de Bulk do "
+"HREFLANG Tags Pro."
+
+#: tabs/bulk_editor.php:20 tabs/generator.php:22 tabs/validation_tool.php:20
+msgid "Download HREFLANG Tags Pro Now"
+msgstr "Baixar HREFLANG Tags Pro agora"
+
+#: tabs/dashboard.php:22
+msgid "Content Types"
+msgstr "Tipos de Posts"
+
+#: tabs/dashboard.php:58
+msgid ""
+"These are the types of content that you want to set HREFLANG Tags metaboxes "
+"for."
+msgstr ""
+"Estes são os tipos de conteúdo que você deseja definir tags hreflang "
+"metaboxes para."
+
+#: tabs/dashboard.php:68
+msgid "How-to/Tutorial Video"
+msgstr "Como encomendar uma série de vídeos"
+
+#: tabs/dashboard.php:69
+msgid ""
+"I get many requests for documentation or instructions on how to set up "
+"HREFLANG Tags. I've prepared a video that I think will help you."
+msgstr ""
+"Recebo muitos pedidos de documentação ou instruções sobre como configurar as "
+"tags HREFLANG. Eu preparei um vídeo que eu acho que irá ajudá-lo."
+
+#: tabs/dashboard.php:72
+msgid ""
+"If you feel this plugin has helped you and you would like to say thanks, "
+"click <a target=\"_blank\" href=\"http://PayPal.Me/DCGWS/5usd\">here</a> to "
+"send me $5. Thanks!<br>David, DCGWS Founder"
+msgstr ""
+"Se você sente este plugin tem ajudado a você e você gostaria de dizer "
+"obrigado, clique <a target=\"_blank\" href=\"http://PayPal.Me/DCGWS/5usd"
+"\">aqui</a> para enviar-me $5. Obrigado!<br>David, fundador do DCGWS"
+
+#: tabs/generator.php:19
+msgid ""
+"You can easily create the HTML code for your non-WordPress sites here with "
+"this easy to use generator"
+msgstr ""
+"Você pode facilmente criar o código HTML para os seus sites não-WordPress "
+"aqui com este gerador fácil de usar"
+
+#: tabs/generator.php:20
+msgid ""
+"Please watch this short video demonstration of the HREFLANG Tags Generator "
+"for HTML sites."
+msgstr ""
+"Por favor, Assista a esta demonstração em vídeo do gerador para sites HTML "
+"Tags HREFLANG."
+
+#: tabs/validation_tool.php:17
+msgid "Now you can test your hreflang tags directly from the meta box."
+msgstr ""
+"Agora você pode testar suas tags hreflang diretamente da caixa de meta."
+
+#: tabs/validation_tool.php:18
+msgid ""
+"Please watch this short video demonstration of the HREFLANG Tags Validation "
+"Tool."
+msgstr ""
+"Por favor, Assista esta demonstração em vídeo da HREFLANG Tags validação "
+"ferramenta."
+
+#. Plugin Name of the plugin/theme
+msgid "HREFLANG Tags Lite"
+msgstr "HREFLANG Tags Lite"
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/hreflang-tags-by-dcgws/"
+msgstr "https://wordpress.org/plugins/hreflang-tags-by-dcgws/"
+
+#. Description of the plugin/theme
+msgid ""
+"Smart implementation of HREFLANG meta tags into the head section of your "
+"WordPress site."
+msgstr ""
+"Aplicação inteligente de HREFLANG Metatags na seção head do seu site "
+"WordPress."
+
+#. Author of the plugin/theme
+msgid "DCGWS"
+msgstr "DCGWS"
+
+#. Author URI of the plugin/theme
+msgid "http://dcgws.com"
+msgstr "http://dcgws.com"
+
+#~ msgid ""
+#~ "Please watch this short video demonstration of the HREFLANG Tags Bulk "
+#~ "Editor."
+#~ msgstr ""
+#~ "Por favor, Assista esta demonstração em vídeo do Editor em massa HREFLANG "
+#~ "Tags."
+
+#~ msgid "http://dcgws.com/resources/plugins-software/hreflang-tags-by-dcgws/"
+#~ msgstr "http://dcgws.com/resources/plugins-software/hreflang-tags-by-dcgws/"
+
+#~ msgid "Unlimited Domains for only $7.99 (limited time only)"
+#~ msgstr "Domínios ilimitados por apenas $7.99 (tempo limitado)"
+
+#~ msgid "Download Now"
+#~ msgstr "Baixar agora"
+
+#~ msgid ""
+#~ "Thank you for downloading HREFLANG Tags. We hope this tool is of help to "
+#~ "you. If you need more powerful features such as Bulk Editor and HTML "
+#~ "Generator for non-Wordpress site, be sure to get a license for our Pro "
+#~ "version. <a href=\"/wp-admin/admin.php?page=HREFLANG&tab=hreflang_upgrade"
+#~ "\">Go Pro now!</a>"
+#~ msgstr ""
+#~ "Obrigado por baixar hreflang Etiquetas. Esperamos que esta ferramenta é "
+#~ "útil para você. Se você precisar de recursos mais poderosos, como massa "
+#~ "de Editor e gerador de HTML para o site não-Wordpress, ter certeza de "
+#~ "obter uma licença para nossa versão Pro. <a href=\"/wp-admin/admin.php?"
+#~ "page=HREFLANG&tab=hreflang_upgrade\">Vá Pro agora!</a>"
+
+#~ msgid "You are not allowed to access this page."
+#~ msgstr "Você não possui permissão para acessar esta página."
+
+#~ msgctxt "posts"
+#~ msgid "All <span class=\"count\">(%s)</span>"
+#~ msgid_plural "All <span class=\"count\">(%s)</span>"
+#~ msgstr[0] "All <span class=\"count\">(%s)</span>"
+#~ msgstr[1] "All <span class=\"count\">(%s)</span>"
+
+#~ msgctxt "posts"
+#~ msgid "Trash <span class=\"count\">(%s)</span>"
+#~ msgid_plural "Trash <span class=\"count\">(%s)</span>"
+#~ msgstr[0] "Trash <span class=\"count\">(%s)</span>"
+#~ msgstr[1] "Trash <span class=\"count\">(%s)</span>"
+
+#~ msgid "Filter"
+#~ msgstr "Filtrar"
+
+#~ msgid "Edit this item"
+#~ msgstr "Editar Item"
+
+#~ msgid "Edit"
+#~ msgstr "Editar"
+
+#~ msgid "Preview &#8220;%s&#8221;"
+#~ msgstr "Pré-Visualização &#8220;%s&#8221;"
+
+#~ msgid "Preview"
+#~ msgstr "Previsualização"
+
+#~ msgid "View &#8220;%s&#8221;"
+#~ msgstr "Visualizar &#8220;%s&#8221;"
+
+#~ msgid "View"
+#~ msgstr "Visualizar"
+
+#~ msgid "WP Page Title"
+#~ msgstr "WP Título da página"
+
+#~ msgid "Post Type"
+#~ msgstr "Tipo de artigo"
+
+#~ msgid "Post Status"
+#~ msgstr "Status do artigo"
+
+#~ msgid "Publication date"
+#~ msgstr "Data de publicação"
+
+#~ msgid "Page URL/Slug"
+#~ msgstr "URL da página / Slug"
+
+#~ msgid "Action"
+#~ msgstr "Açao"
+
+#~ msgid "Generator"
+#~ msgstr "Gerador"
+
+#~ msgid "Upgrade"
+#~ msgstr "Atualizar"
+
+#~ msgid ""
+#~ "This tool is one of the Pro features of HREFLANG Tags. You can access all "
+#~ "your pages and posts here and add your hreflang tags, all in one "
+#~ "convenient place. <a href=\"/wp-admin/admin.php?"
+#~ "page=HREFLANG&tab=hreflang_upgrade\">Go Pro now!</a>"
+#~ msgstr ""
+#~ "Esta ferramenta é uma das características Pro de hreflang Etiquetas. Você "
+#~ "pode acessar todas as suas páginas e posts aqui e adicionar suas tags "
+#~ "hreflang, tudo em um lugar conveniente. <a href=\"/wp-admin/admin.php?"
+#~ "page=HREFLANG&tab=hreflang_upgrade\">Vá Pro agora!</a>"
+
+#~ msgid ""
+#~ "This tool is one of the Pro features of HREFLANG Tags. You can easily "
+#~ "create the HTML code for your non-WordPress sites here with this easy to "
+#~ "use generator. <a href=\"/wp-admin/admin.php?"
+#~ "page=HREFLANG&tab=hreflang_upgrade\">Go Pro now!</a>"
+#~ msgstr ""
+#~ "Esta ferramenta é uma das características Pro de hreflang Etiquetas. Você "
+#~ "pode facilmente criar o código HTML para os seus sites não-WordPress aqui "
+#~ "com este fácil de usar gerador. <a href=\"/wp-admin/admin.php?"
+#~ "page=HREFLANG&tab=hreflang_upgrade\">Vá Pro agora!</a>"
+
+#~ msgid "Get instant access to premium features and support."
+#~ msgstr "Obtenha acesso instantâneo para suporte e recursos premium."
+
+#~ msgid ""
+#~ "If you have not already licensed your plugin and want the Pro version "
+#~ "features and support, select how many domains that you need to license "
+#~ "and click Pay Now."
+#~ msgstr ""
+#~ "Se você ainda não tiver licenciado o seu plugin e quer as características "
+#~ "da versão Pro e suporte, selecione o número de domínios que você precisa "
+#~ "licenciar e clique em Pagar agora."
+
+#~ msgid "License Key"
+#~ msgstr "Chave de licença"
+
+#~ msgid "Single Domain"
+#~ msgstr "Domínio único"
+
+#~ msgid "Up to 5 Domains"
+#~ msgstr "Até 5 Domínios"
+
+#~ msgid "Up to 20 Domains"
+#~ msgstr "Até 20 Domínios"
+
+#~ msgid "DCGWS Internet Solutions"
+#~ msgstr "DCGWS Internet Solutions"
+
+#~ msgid "Generate Tags"
+#~ msgstr "gerar tags"
+
+#~ msgid "Updates &amp; Licensing"
+#~ msgstr "Atualizações &amp; licenciamento"
+
+#~ msgid "License Keys"
+#~ msgstr "Chaves da licença"
+
+#~ msgid "Single domain"
+#~ msgstr "Domínio único"
+
+#~ msgid ""
+#~ "This tool is one of the Pro features of HREFLANG Tags. You can access all "
+#~ "your pages and posts here and add your hreflang tags, all in one "
+#~ "convenient place. Go Pro now!"
+#~ msgstr ""
+#~ "Esta ferramenta é uma das características Pro de hreflang Etiquetas. Você "
+#~ "pode acessar todas as suas páginas e posts aqui e adicionar suas tags "
+#~ "hreflang, tudo em um lugar conveniente. Vá Pro agora!"
+
+#~ msgid "HREFLANG Tag Bulk Editor"
+#~ msgstr "Hreflang Tag Editor massa"
+
+#~ msgid "Valid Key : Your license key has been successfully validated."
+#~ msgstr "Chave Válida: Sua chave de licença foi validada com sucesso."
+
+#~ msgid ""
+#~ "Invalid or Expired Key : Please make sure you have entered the correct "
+#~ "value and that your key is not expired."
+#~ msgstr ""
+#~ "Chave Inválida ou Expirada: Por favor tenha certeza que você digitou o "
+#~ "valor correto e que a sua chave não está expirada."
+
+#~ msgid "The license key is used for access to premium features and support."
+#~ msgstr "A chave de licença é usada para acessar recursos premium e apoio."
+
+#~ msgid ""
+#~ "This tool is one of the Pro features of HREFLANG Tags. You can easily "
+#~ "create the HTML code for your non-WordPress sites here with this easy to "
+#~ "use generator. Go Pro now!"
+#~ msgstr ""
+#~ "Esta ferramenta é uma das características de Tags HREFLANG Pro. Você pode "
+#~ "facilmente criar o código HTML para os seus sites não-WordPress aqui com "
+#~ "este gerador fácil de usar. Ir Pro agora!"
+
+#~ msgid "HREFLANG Tag Generator for HTML sites"
+#~ msgstr "Gerador de Tag HREFLANG para sites HTML"

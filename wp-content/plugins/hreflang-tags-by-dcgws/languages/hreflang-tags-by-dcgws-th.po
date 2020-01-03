@@ -1,0 +1,160 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: HREFLANG Tags Lite\n"
+"POT-Creation-Date: 2018-03-17 16:39+0800\n"
+"PO-Revision-Date: 2018-03-17 16:49+0800\n"
+"Last-Translator: David Robert Davis, Jr <david.davis@dcgws.com>\n"
+"Language-Team: David Robert Davis, Jr <david.davis@dcgws.com>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: hreflang-tags-by-dcgws.php\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;"
+"esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;"
+"__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: hreflang-main.php:23 includes/functions.php:302 includes/functions.php:329
+msgid "HREFLANG Tags"
+msgstr "แท็ก HREFLANG"
+
+#: hreflang-main.php:58
+msgid "Dashboard"
+msgstr "จัดการบัญชี"
+
+#: hreflang-main.php:59
+msgid "HTML Code Generator"
+msgstr "เครื่องกำเนิดไฟฟ้ารหัส HTML"
+
+#: hreflang-main.php:60
+msgid "Bulk Editor"
+msgstr "แก้ไขจำนวนมาก"
+
+#: hreflang-main.php:61
+msgid "Validation Tool"
+msgstr "เครื่องมือตรวจสอบ"
+
+#: includes/functions.php:246 includes/functions.php:267 includes/functions.php:304
+#: includes/functions.php:341 includes/functions.php:366
+msgid "Alternative URL"
+msgstr "ทางเลือก URL"
+
+#: includes/functions.php:248 includes/functions.php:269 includes/functions.php:306
+#: includes/functions.php:343 includes/functions.php:368
+msgid "Language"
+msgstr "ภาษา"
+
+#: includes/functions.php:250 includes/functions.php:271 includes/functions.php:308
+#: includes/functions.php:345 includes/functions.php:370
+msgid "Select one"
+msgstr "[เลือกเพียงหนึ่งข้อ]"
+
+#: includes/functions.php:462
+#, php-format
+msgid ""
+"Use coupon code <b>WPDashboard50</b> to get <i>50% off</i> HREFLANG TAGS Pro <i>ONLY until "
+"March 24, 2018</i>! <b>Limited to the first 100 customers!</b> <a href=\"http://dcgws.com/"
+"product/hreflang-tags-pro-plugin-wordpress/#utm_source=plugin-page&utm_medium=admin-"
+"notice&utm_campaign=hreflang-tags-pro\">Order now!</a>"
+msgstr ""
+"ใช้รหัสคูปอง <b> WPDashboard50 </b> เพื่อรับ <i> 50% off </i> HREFLANG TAGS Pro <i> เฉพาะวันที่ 24 "
+"มีนาคม 2018 </i>! <b> จำกัด เฉพาะลูกค้า 100 รายแรก! </b> <a href = \"http://dcgws.com/product/"
+"hreflang-tags-pro-plugin-wordpress/#utm_source=plugin-page&utm_medium=admin-"
+"notice&utm_campaign= hreflang-tag-pro \"> สั่งซื้อเดี๋ยวนี้! </a>"
+
+#: tabs/bulk_editor.php:16 tabs/generator.php:18 tabs/validation_tool.php:16
+msgid "This tool is one of the Pro features of HREFLANG Tags."
+msgstr "เครื่องมือนี้เป็นหนึ่งในคุณสมบัติ Pro ของแท็ก HREFLANG"
+
+#: tabs/bulk_editor.php:17
+msgid ""
+"You can access all your pages and posts here and add your hreflang tags, all in one "
+"convenient place."
+msgstr "คุณสามารถเข้าถึงหน้าและโพสต์ที่นี่ทั้งหมด และเพิ่มแท็กของคุณ hreflang ในสะดวกสบายที่เดียว"
+
+#: tabs/bulk_editor.php:18
+msgid "Please watch this short video demonstration of the HREFLANG Tags Pro Bulk Editor."
+msgstr "Please watch this short video demonstration of the HREFLANG Tags Pro Bulk Editor."
+
+#: tabs/bulk_editor.php:20 tabs/generator.php:22 tabs/validation_tool.php:20
+msgid "Download HREFLANG Tags Pro Now"
+msgstr "ดาวน์โหลด HREFLANG แท็ก Pro ตอนนี้"
+
+#: tabs/dashboard.php:22
+msgid "Content Types"
+msgstr "ชนิดเนื้อหา"
+
+#: tabs/dashboard.php:58
+msgid "These are the types of content that you want to set HREFLANG Tags metaboxes for."
+msgstr "ชนิดของเนื้อหาที่คุณต้องการแท็ก HREFLANG metaboxes สำหรับการตั้งค่าเหล่านี้ได้"
+
+#: tabs/dashboard.php:68
+msgid "How-to/Tutorial Video"
+msgstr "วิดีโอแนะนำการใช้งาน"
+
+#: tabs/dashboard.php:69
+msgid ""
+"I get many requests for documentation or instructions on how to set up HREFLANG Tags. I've "
+"prepared a video that I think will help you."
+msgstr "ฉันขอรับเอกสารหรือคำแนะนำเกี่ยวกับการตั้งค่าแท็ก HREFLANG จำนวนมาก ฉันเตรียมวิดีโอที่ฉันคิดว่าจะช่วยคุณได้"
+
+#: tabs/dashboard.php:72
+msgid ""
+"If you feel this plugin has helped you and you would like to say thanks, click <a target="
+"\"_blank\" href=\"http://PayPal.Me/DCGWS/5usd\">here</a> to send me $5. Thanks!<br>David, "
+"DCGWS Founder"
+msgstr ""
+"ถ้าคุณรู้สึกว่า ปลั๊กอินนี้ช่วยให้คุณ และคุณต้องการกล่าวขอบคุณ คลิก<a target=\"_blank\" href=\"http://PayPal.Me/"
+"DCGWS/5usd\">ที่นี่</a>เพื่อส่ง $5 ขอบคุณ<br>ดาวิด ผู้ก่อตั้ง DCGWS"
+
+#: tabs/generator.php:19
+msgid ""
+"You can easily create the HTML code for your non-WordPress sites here with this easy to use "
+"generator"
+msgstr "คุณสามารถสร้างรหัส HTML สำหรับเว็บไซต์ของคุณ WordPress ไม่ใช่ที่นี่กับเครื่องกำเนิดไฟฟ้านี้ใช้งานง่าย"
+
+#: tabs/generator.php:20
+msgid ""
+"Please watch this short video demonstration of the HREFLANG Tags Generator for HTML sites."
+msgstr "โปรดดูวิดีโอสาธิตนี้สั้นของเครื่องกำเนิดไฟฟ้าแท็ก HREFLANG สำหรับเว็บไซต์ HTML"
+
+#: tabs/validation_tool.php:17
+msgid "Now you can test your hreflang tags directly from the meta box."
+msgstr "ตอนนี้ คุณสามารถทดสอบแท็ก hreflang ของคุณโดยตรงจากกล่องเมตา"
+
+#: tabs/validation_tool.php:18
+msgid "Please watch this short video demonstration of the HREFLANG Tags Validation Tool."
+msgstr "โปรดดูวิดีโอสาธิตนี้สั้นของเครื่องมือการตรวจสอบแท็ก HREFLANG"
+
+#. Plugin Name of the plugin/theme
+msgid "HREFLANG Tags Lite"
+msgstr "แท็ก HREFLANG Lite"
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/hreflang-tags-by-dcgws/"
+msgstr "https://wordpress.org/plugins/hreflang-tags-by-dcgws/"
+
+#. Description of the plugin/theme
+msgid ""
+"Smart implementation of HREFLANG meta tags into the head section of your WordPress site."
+msgstr "ใช้งานสมาร์ทแท็ก HREFLANG meta ลงในส่วนหัวของไซต์ของคุณ WordPress"
+
+#. Author of the plugin/theme
+msgid "DCGWS"
+msgstr "DCGWS"
+
+#. Author URI of the plugin/theme
+msgid "http://dcgws.com"
+msgstr "http://dcgws.com"
+
+#~ msgid "Please watch this short video demonstration of the HREFLANG Tags Bulk Editor."
+#~ msgstr "โปรดดูนี้สั้นวิดีโอสาธิตของตัวแก้ไขแท็ก HREFLANG จำนวนมาก"
+
+#~ msgid "http://dcgws.com/resources/plugins-software/hreflang-tags-by-dcgws/"
+#~ msgstr "http://dcgws.com/resources/plugins-software/hreflang-tags-by-dcgws/"

@@ -1,0 +1,200 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: HREFLANG Tags\n"
+"POT-Creation-Date: 2018-03-17 16:51+0800\n"
+"PO-Revision-Date: 2018-03-17 16:54+0800\n"
+"Last-Translator: David Robert Davis, Jr <david.davis@dcgws.com>\n"
+"Language-Team: David Robert Davis, Jr <david.davis@dcgws.com>\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: hreflang-tags-by-dcgws.php\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: hreflang-main.php:23 includes/functions.php:302 includes/functions.php:329
+msgid "HREFLANG Tags"
+msgstr "HREFLANG Tags"
+
+#: hreflang-main.php:58
+msgid "Dashboard"
+msgstr "Gebruikerspaneel"
+
+#: hreflang-main.php:59
+msgid "HTML Code Generator"
+msgstr "HTML-Code Generator"
+
+#: hreflang-main.php:60
+msgid "Bulk Editor"
+msgstr "Bulk-editor"
+
+#: hreflang-main.php:61
+msgid "Validation Tool"
+msgstr "Validatie"
+
+#: includes/functions.php:246 includes/functions.php:267
+#: includes/functions.php:304 includes/functions.php:341
+#: includes/functions.php:366
+msgid "Alternative URL"
+msgstr "Alternatieve URL"
+
+#: includes/functions.php:248 includes/functions.php:269
+#: includes/functions.php:306 includes/functions.php:343
+#: includes/functions.php:368
+msgid "Language"
+msgstr "Taal"
+
+#: includes/functions.php:250 includes/functions.php:271
+#: includes/functions.php:308 includes/functions.php:345
+#: includes/functions.php:370
+msgid "Select one"
+msgstr "Selecteer een"
+
+#: includes/functions.php:462
+#, php-format
+msgid ""
+"Use coupon code <b>WPDashboard50</b> to get <i>50% off</i> HREFLANG TAGS Pro "
+"<i>ONLY until March 24, 2018</i>! <b>Limited to the first 100 customers!</b> "
+"<a href=\"http://dcgws.com/product/hreflang-tags-pro-plugin-wordpress/"
+"#utm_source=plugin-page&utm_medium=admin-notice&utm_campaign=hreflang-tags-"
+"pro\">Order now!</a>"
+msgstr ""
+"Gebruik couponcode <b> WPDashboard50 </b> om <i> 50% korting </i> HREFLANG "
+"TAGS Pro <i> ALLEEN tot 24 maart 2018 </i>! <b> Beperkt tot de eerste 100 "
+"klanten! </b> <a href = \"http://dcgws.com/product/hreflang-tags-pro-plugin-"
+"wordpress/#utm_source=plugin-page&utm_medium=admin-notice&utm_campaign= "
+"hreflang-tags-pro \"> Bestel nu! </a>"
+
+#: tabs/bulk_editor.php:16 tabs/generator.php:18 tabs/validation_tool.php:16
+msgid "This tool is one of the Pro features of HREFLANG Tags."
+msgstr "Dit programma is een van de kenmerken van de Pro van HREFLANG Tags."
+
+#: tabs/bulk_editor.php:17
+msgid ""
+"You can access all your pages and posts here and add your hreflang tags, all "
+"in one convenient place."
+msgstr ""
+"U kunt alle uw pagina's en berichten hier benaderen en uw hreflang tags, "
+"allemaal in één handige locatie toevoegen."
+
+#: tabs/bulk_editor.php:18
+msgid ""
+"Please watch this short video demonstration of the HREFLANG Tags Pro Bulk "
+"Editor."
+msgstr ""
+"Bekijk deze korte videodemonstratie van de HREFLANG Tags Pro Bulk-editor."
+
+#: tabs/bulk_editor.php:20 tabs/generator.php:22 tabs/validation_tool.php:20
+msgid "Download HREFLANG Tags Pro Now"
+msgstr "Download HREFLANG Tags Pro nu"
+
+#: tabs/dashboard.php:22
+msgid "Content Types"
+msgstr "Content types (Inhoudstypes)"
+
+#: tabs/dashboard.php:58
+msgid ""
+"These are the types of content that you want to set HREFLANG Tags metaboxes "
+"for."
+msgstr ""
+"Dit zijn de soorten inhoud die u wilt instellen van HREFLANG Tags metaboxes "
+"voor."
+
+#: tabs/dashboard.php:68
+msgid "How-to/Tutorial Video"
+msgstr "Hoe kan je video roteren met VLC"
+
+#: tabs/dashboard.php:69
+msgid ""
+"I get many requests for documentation or instructions on how to set up "
+"HREFLANG Tags. I've prepared a video that I think will help you."
+msgstr ""
+"Ik krijg veel verzoeken om documentatie of instructies over het instellen "
+"van HREFLANG-tags. Ik heb een video voorbereid waarvan ik denk dat die je "
+"kan helpen."
+
+#: tabs/dashboard.php:72
+msgid ""
+"If you feel this plugin has helped you and you would like to say thanks, "
+"click <a target=\"_blank\" href=\"http://PayPal.Me/DCGWS/5usd\">here</a> to "
+"send me $5. Thanks!<br>David, DCGWS Founder"
+msgstr ""
+"Mocht u van deze plugin geholpen heeft u en u zou willen zeggen bedankt, "
+"klikt u op <a target=\"_blank\" href=\"http://PayPal.Me/DCGWS/5usd\">hier</"
+"a> om me $5 te verzenden. Bedankt!<br>David, oprichter van de DCGWS"
+
+#: tabs/generator.php:19
+msgid ""
+"You can easily create the HTML code for your non-WordPress sites here with "
+"this easy to use generator"
+msgstr ""
+"U kunt gemakkelijk de HTML-code voor uw niet-WordPress sites hier met deze "
+"makkelijk te gebruiken generator"
+
+#: tabs/generator.php:20
+msgid ""
+"Please watch this short video demonstration of the HREFLANG Tags Generator "
+"for HTML sites."
+msgstr ""
+"Bekijk deze korte video-demonstratie van de HREFLANG Tags Generator voor "
+"HTML-sites."
+
+#: tabs/validation_tool.php:17
+msgid "Now you can test your hreflang tags directly from the meta box."
+msgstr "Nu kunt u uw tags hreflang rechtstreeks uit de meta-doos testen."
+
+#: tabs/validation_tool.php:18
+msgid ""
+"Please watch this short video demonstration of the HREFLANG Tags Validation "
+"Tool."
+msgstr ""
+"Bekijk deze korte video demonstratie van het hulpmiddel van de bevestiging "
+"van de Tags van HREFLANG."
+
+#. Plugin Name of the plugin/theme
+msgid "HREFLANG Tags Lite"
+msgstr "HREFLANG Tags Lite"
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/hreflang-tags-by-dcgws/"
+msgstr "https://wordpress.org/plugins/hreflang-tags-by-dcgws/"
+
+#. Description of the plugin/theme
+msgid ""
+"Smart implementation of HREFLANG meta tags into the head section of your "
+"WordPress site."
+msgstr ""
+"Slimme implementatie van HREFLANG meta-tags in de head-sectie van uw "
+"WordPress site."
+
+#. Author of the plugin/theme
+msgid "DCGWS"
+msgstr "DCGWS"
+
+#. Author URI of the plugin/theme
+msgid "http://dcgws.com"
+msgstr "http://dcgws.com"
+
+#~ msgid ""
+#~ "Please watch this short video demonstration of the HREFLANG Tags Bulk "
+#~ "Editor."
+#~ msgstr ""
+#~ "Bekijk deze korte video-demonstratie van de Bulk Editor HREFLANG Tags."
+
+#~ msgid "http://dcgws.com/resources/plugins-software/hreflang-tags-by-dcgws/"
+#~ msgstr "http://dcgws.com/resources/plugins-software/hreflang-tags-by-dcgws/"
+
+#~ msgid "Unlimited Domains for only $7.99 (limited time only)"
+#~ msgstr ""
+#~ "Onbeperkt aantal domeinen voor slechts 7,99 dollar (beperkte tijd alleen)"
+
+#~ msgid "Download Now"
+#~ msgstr "Download Nu"
